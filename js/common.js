@@ -1,0 +1,1 @@
+var base_url = "https://aaan.empl-dev.com.ng/api/";
